@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://tejas-kotian.github.io/csb-2w6vxr/static/css/main.dc14f345.chunk.css",
+    "main.js": "https://tejas-kotian.github.io/csb-2w6vxr/static/js/main.fdaf4fee.chunk.js",
+    "main.js.map": "https://tejas-kotian.github.io/csb-2w6vxr/static/js/main.fdaf4fee.chunk.js.map",
+    "runtime-main.js": "https://tejas-kotian.github.io/csb-2w6vxr/static/js/runtime-main.ce827c04.js",
+    "runtime-main.js.map": "https://tejas-kotian.github.io/csb-2w6vxr/static/js/runtime-main.ce827c04.js.map",
+    "static/js/2.de26a51a.chunk.js": "https://tejas-kotian.github.io/csb-2w6vxr/static/js/2.de26a51a.chunk.js",
+    "static/js/2.de26a51a.chunk.js.map": "https://tejas-kotian.github.io/csb-2w6vxr/static/js/2.de26a51a.chunk.js.map",
+    "index.html": "https://tejas-kotian.github.io/csb-2w6vxr/index.html",
+    "precache-manifest.8ffbc94ebeaf734ab61c34d2af228b15.js": "https://tejas-kotian.github.io/csb-2w6vxr/precache-manifest.8ffbc94ebeaf734ab61c34d2af228b15.js",
+    "service-worker.js": "https://tejas-kotian.github.io/csb-2w6vxr/service-worker.js",
+    "static/css/main.dc14f345.chunk.css.map": "https://tejas-kotian.github.io/csb-2w6vxr/static/css/main.dc14f345.chunk.css.map",
+    "static/js/2.de26a51a.chunk.js.LICENSE.txt": "https://tejas-kotian.github.io/csb-2w6vxr/static/js/2.de26a51a.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/avatar.7c8e5f50.png",
+    "static/media/App.css": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/html-css-javascript-lg.jpg": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/html-css-javascript.jpg": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/html-css-javascript.2c7701aa.jpg",
+    "static/media/javascript-fullstack.jpg": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/mern-stack.jpg": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/mern-stack.90616a5d.jpg",
+    "static/media/react-redux.jpg": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/react-redux.a8b012a0.jpg",
+    "static/media/react.png": "https://tejas-kotian.github.io/csb-2w6vxr/static/media/react.f370c1e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce827c04.js",
+    "static/js/2.de26a51a.chunk.js",
+    "static/css/main.dc14f345.chunk.css",
+    "static/js/main.fdaf4fee.chunk.js"
+  ]
+}
