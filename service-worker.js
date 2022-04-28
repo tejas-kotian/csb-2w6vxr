@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://tejas-kotian.github.io/csb-2w6vxr/precache-manifest.8ffbc94ebeaf734ab61c34d2af228b15.js"
+  "https://tejas-kotian.github.io/csb-2w6vxr/precache-manifest.386aa6b1daa67f8719ccd13f1f45446a.js"
 );
 
 self.addEventListener('message', (event) => {
